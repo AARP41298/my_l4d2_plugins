@@ -1,0 +1,24 @@
+L 03/09/2025 - 11:13:07: SourceMod log file session started (file "c:\program files (x86)\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250309.log") (Version "1.12.0.7177")
+L 03/09/2025 - 11:13:07: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2025-02-14 10:48:55 UTC) (c:\program files (x86)\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 03/09/2025 - 11:13:07: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 03/09/2025 - 11:13:08: [perkmod2.smx] L4D 2 detected.
+L 03/09/2025 - 11:13:08: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 03/09/2025 - 11:13:08: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 03/09/2025 - 11:17:18: SourceMod log file session started (file "c:\program files (x86)\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250309.log") (Version "1.12.0.7177")
+L 03/09/2025 - 11:17:18: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2025-02-14 10:48:55 UTC) (c:\program files (x86)\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 03/09/2025 - 11:17:18: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 03/09/2025 - 11:17:20: [perkmod2.smx] L4D 2 detected.
+L 03/09/2025 - 11:17:20: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 03/09/2025 - 11:17:20: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 03/09/2025 - 11:18:36: -------- Mapchange to claustrophobia2 --------
+L 03/09/2025 - 11:19:10: -------- Mapchange to claustrophobia3 --------
+L 03/09/2025 - 11:38:39: SourceMod log file session started (file "c:\program files (x86)\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250309.log") (Version "1.12.0.7177")
+L 03/09/2025 - 11:38:39: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2025-02-14 10:48:55 UTC) (c:\program files (x86)\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 03/09/2025 - 11:38:39: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 03/09/2025 - 11:38:39: [perkmod2.smx] L4D 2 detected.
+L 03/09/2025 - 11:38:39: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 03/09/2025 - 11:38:39: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 03/09/2025 - 11:53:51: -------- Mapchange to claustrophobia5 --------
+L 03/09/2025 - 12:13:27: -------- Mapchange to claustrophobia6 --------
+L 03/09/2025 - 12:33:29: -------- Mapchange to claustrophobia7 --------
+L 03/09/2025 - 13:14:26: Log file closed.

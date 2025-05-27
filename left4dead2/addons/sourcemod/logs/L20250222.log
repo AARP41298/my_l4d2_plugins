@@ -1,0 +1,52 @@
+L 02/22/2025 - 12:47:04: SourceMod log file session started (file "c:\program files (x86)\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250222.log") (Version "1.12.0.7177")
+L 02/22/2025 - 12:47:04: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2025-02-14 10:48:55 UTC) (c:\program files (x86)\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 02/22/2025 - 12:47:04: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 02/22/2025 - 12:47:05: [perkmod2.smx] L4D 2 detected.
+L 02/22/2025 - 12:47:05: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 02/22/2025 - 12:47:05: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 02/22/2025 - 12:47:11: [UPDATER] Successfully updated gamedata file "sm-tf2.games.txt"
+L 02/22/2025 - 12:47:11: [UPDATER] Successfully updated gamedata file "sm-cstrike.games/game.css.txt"
+L 02/22/2025 - 12:47:11: [UPDATER] Successfully updated gamedata file "sdktools.games/game.dod.txt"
+L 02/22/2025 - 12:47:11: [UPDATER] Successfully updated gamedata file "sdktools.games/game.cstrike.txt"
+L 02/22/2025 - 12:47:11: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.ep2valve.txt"
+L 02/22/2025 - 12:47:11: [UPDATER] Successfully updated gamedata file "sdktools.games/game.hl1mp.txt"
+L 02/22/2025 - 12:47:11: [UPDATER] Successfully updated gamedata file "sdktools.games/master.games.txt"
+L 02/22/2025 - 12:47:11: [UPDATER] Successfully updated gamedata file "sdkhooks.games/engine.ep2v.txt"
+L 02/22/2025 - 12:47:11: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.hl1mp.txt"
+L 02/22/2025 - 12:47:11: [UPDATER] Successfully updated gamedata file "sdkhooks.games/master.games.txt"
+L 02/22/2025 - 12:47:11: [UPDATER] Successfully updated gamedata file "core.games/master.games.txt"
+L 02/22/2025 - 12:47:11: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 02/22/2025 - 12:59:58: -------- Mapchange to e2m5_commandcenter --------
+L 02/22/2025 - 13:18:45: Log file closed.
+L 02/22/2025 - 13:26:17: SourceMod log file session started (file "c:\program files (x86)\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250222.log") (Version "1.12.0.7177")
+L 02/22/2025 - 13:26:17: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2025-02-14 10:48:55 UTC) (c:\program files (x86)\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 02/22/2025 - 13:26:17: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 02/22/2025 - 13:26:17: [perkmod2.smx] L4D 2 detected.
+L 02/22/2025 - 13:26:17: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 02/22/2025 - 13:26:17: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 02/22/2025 - 13:41:05: -------- Mapchange to e2m7_spawningvats --------
+L 02/22/2025 - 13:54:40: -------- Mapchange to e2m8_towerofbabel --------
+L 02/22/2025 - 14:01:59: Log file closed.
+L 02/22/2025 - 14:18:58: SourceMod log file session started (file "c:\program files (x86)\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250222.log") (Version "1.12.0.7177")
+L 02/22/2025 - 14:18:58: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2025-02-14 10:48:55 UTC) (c:\program files (x86)\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 02/22/2025 - 14:18:58: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 02/22/2025 - 14:18:58: [perkmod2.smx] L4D 2 detected.
+L 02/22/2025 - 14:18:58: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 02/22/2025 - 14:18:58: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 02/22/2025 - 14:23:01: -------- Mapchange to l4d2_deathwoods01_stranded --------
+L 02/22/2025 - 14:30:31: -------- Mapchange to l4d2_deathwoods02_tunnel --------
+L 02/22/2025 - 14:57:14: -------- Mapchange to l4d2_deathwoods03_bridge --------
+L 02/22/2025 - 15:16:14: -------- Mapchange to l4d2_deathwoods04_power --------
+L 02/22/2025 - 15:37:53: -------- Mapchange to l4d2_deathwoods05_airfield --------
+L 02/22/2025 - 15:49:25: Log file closed.
+L 02/22/2025 - 18:25:24: SourceMod log file session started (file "c:\program files (x86)\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250222.log") (Version "1.12.0.7177")
+L 02/22/2025 - 18:25:24: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2025-02-14 10:48:55 UTC) (c:\program files (x86)\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 02/22/2025 - 18:25:24: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 02/22/2025 - 18:25:26: [perkmod2.smx] L4D 2 detected.
+L 02/22/2025 - 18:25:26: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 02/22/2025 - 18:25:26: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 02/22/2025 - 18:35:51: -------- Mapchange to lastbreath_m1 --------
+L 02/22/2025 - 19:03:38: -------- Mapchange to lastbreath_m2 --------
+L 02/22/2025 - 19:23:04: -------- Mapchange to lastbreath_m3 --------
+L 02/22/2025 - 19:44:28: -------- Mapchange to lastbreath_m4 --------
+L 02/22/2025 - 20:11:52: Log file closed.

@@ -1,0 +1,17 @@
+L 03/08/2025 - 17:25:06: SourceMod log file session started (file "c:\program files (x86)\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250308.log") (Version "1.12.0.7177")
+L 03/08/2025 - 17:25:06: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2025-02-14 10:48:55 UTC) (c:\program files (x86)\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 03/08/2025 - 17:25:06: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 03/08/2025 - 17:25:07: [perkmod2.smx] L4D 2 detected.
+L 03/08/2025 - 17:25:07: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 03/08/2025 - 17:25:07: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 03/08/2025 - 17:25:12: [UPDATER] Successfully updated gamedata file "sdkhooks.games/engine.ep2v.txt"
+L 03/08/2025 - 17:25:12: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 03/08/2025 - 17:31:40: SourceMod log file session started (file "c:\program files (x86)\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\logs\L20250308.log") (Version "1.12.0.7177")
+L 03/08/2025 - 17:31:40: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2025-02-14 10:48:55 UTC) (c:\program files (x86)\steam\steamapps\common\left 4 dead 2\left4dead2\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 03/08/2025 - 17:31:40: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 03/08/2025 - 17:31:40: [perkmod2.smx] L4D 2 detected.
+L 03/08/2025 - 17:31:40: [perkmod2.smx] Retrieved g_iNextActO = 1084
+L 03/08/2025 - 17:31:40: [perkmod2.smx] Retrieved g_iAttackTimerO = 5452
+L 03/08/2025 - 17:48:38: -------- Mapchange to claustrophobia2 --------
+L 03/08/2025 - 18:11:04: -------- Mapchange to claustrophobia3 --------
+L 03/08/2025 - 18:12:45: Log file closed.
