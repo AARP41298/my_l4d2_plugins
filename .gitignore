@@ -5,3 +5,4 @@ left4dead2/*
 !left4dead2/addons/metamod
 *
 !.gitignore
+left4dead2/addons/sourcemod/plugins/nextmap.smx
